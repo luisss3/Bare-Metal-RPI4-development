@@ -5,6 +5,6 @@
 
 #else
 #define PBASE 0
-#error RPI_VERSION NOT DEFINED
+//#error RPI_VERSION NOT DEFINED
 
 #endif
